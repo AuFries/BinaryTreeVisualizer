@@ -24,6 +24,7 @@ This is a binary tree visualizer built using Java Swing GUI.
 6. **Sort the tree**
 
 ![sort](https://user-images.githubusercontent.com/72180759/148439261-fb3f970f-c855-4563-bc7f-68d99085360a.gif)
+
 Creates a binary search tree from all the values within the current tree. It chooses a random root node.
 
 7. **Automatic reconfiguration**
