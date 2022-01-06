@@ -2,6 +2,7 @@
 This is a binary tree visualizer built using Java Swing GUI. 
 ## Features
 1. **Adding/Deleting new nodes**
+
 ![addingdeleting](https://user-images.githubusercontent.com/72180759/148437602-c2791f0c-27f3-43d0-a1cd-37366ffaf735.gif)
 3. **Configuring node settings (right/left children and values)**
 4. **Moving nodes, screen drag, and zoom**
